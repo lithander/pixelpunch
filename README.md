@@ -16,3 +16,8 @@ Here's what you need to do if you happen to use VS 2012.
 * Open "AllSamples.sln"
 * Add Existing Project and chose "cinder\samples\PixelPunch\vc11\PixelPunch.vcxproj"
 * Compile & Profit
+
+References:
+
+http://wayofthepixel.net/index.php?topic=12502.0
+http://www.alonsomartin.mx/hfa/2013/10/30/spriting-tips/
