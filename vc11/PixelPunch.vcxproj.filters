@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="pixelpunch">
+      <UniqueIdentifier>{1e80a1cb-0618-4db6-9d43-4a5e3b9998b0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\pixelpunch\Kernel.cpp">
+      <Filter>pixelpunch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\pixelpunch\PixelPunch.cpp">
+      <Filter>pixelpunch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\pixelpunch\PixelScale.cpp">
+      <Filter>pixelpunch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\pixelpunch\PixelTransform.cpp">
+      <Filter>pixelpunch</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\pixelpunch\Kernel.h">
+      <Filter>pixelpunch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\pixelpunch\PixelPunch.h">
+      <Filter>pixelpunch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\pixelpunch\PixelScale.h">
+      <Filter>pixelpunch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\pixelpunch\PixelTransform.h">
+      <Filter>pixelpunch</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
